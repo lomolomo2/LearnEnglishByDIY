@@ -1,0 +1,41 @@
+{
+    
+    "gitbook" : "3.2.3",
+    "title": "GitBook Toolchain Documentation",
+
+
+    "structure": {
+        "readme": "README.md",
+        "summary": "SUMMARY.md"
+    },
+
+    "plugins": [
+        "tbfed-pagefooter",
+        "mermaid-gb3",
+        "chapter-fold"
+     ],
+     "pluginsConfig": {
+         "tbfed-pagefooter": {
+             "copyright":"Copyright &copy aisnote at gmail dot com 2023",
+             "modify_label": "Latest update：",
+             "modify_format": "MM-DD-YYYY HH:mm:ss"
+         }
+     },
+
+     "links": {
+        "sidebar": {
+            "aisnote": "https://aisnote.com"
+        },
+
+        
+        "sharing": {
+            "google": null,
+            "facebook": null,
+            "twitter": "https://twitter.com/aisnote",
+            "weibo": null,
+            "all": null
+        }
+    }
+
+    
+}
