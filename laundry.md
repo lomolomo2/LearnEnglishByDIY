@@ -21,4 +21,45 @@
 
 购买清单与英文名称如下：
 
+**- 2X4-8FT Prime Fir （优质冷杉）**
+<table>
+<tbody>
+<tr>
+<td>
+<img src="./assets/imgs/prime_fir.png" height="400px"/>
+</td>
+</tr>
+</tbody>
+</table>
 
+标签上的 STD/BTR 是 Standard & better的意思
+是 Common Lumber Abbreviations and Terms，是 lumber 木头的grades 缩写，美国都是用木头造房子的。
+
+查了一下，大致是：
+
+Grades A  |  comments
+--------- |----------
+ BTR      | Better  
+ #1BTR    | 1号better 
+ #1BTR    | B3 
+ #1BTR    | B3 
+ B&B	  | B & Better
+CON COM	  | Construction Common Redwood
+CON HEART |	Construction Heart Redwood
+STD BTR	  | Standard & Better
+
+**- Countertop**
+
+<table>
+<tbody>
+<tr>
+<td>
+<img src="./assets/imgs/countertop.png" height="500px"/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Laminate Countertops: 层压板台面
+
+**Tesla 把后排座位放倒就可以放下台面了。**
